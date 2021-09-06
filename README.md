@@ -1,4 +1,4 @@
-### Samira Rezayi :simple_smile:
+### Samira Rezayi :smile:
 
 :smiling_imp:
 :innocent:
