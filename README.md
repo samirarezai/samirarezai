@@ -1,5 +1,7 @@
 ### Samira Rezayi 👋
-
+:simple_smile:
+:smiling_imp:
+:innocent:
 <!--
 **samirarezai/samirarezai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
