@@ -3,6 +3,9 @@
     <img src="https://emojis.slackmojis.com/emojis/images/1531849353/4244/blob-octopus.gif" width="60" height="60"/> 
     <img src="https://emojis.slackmojis.com/emojis/images/1531849353/4244/blob-octopus.gif" width="60" height="60" align="right"/> 
 </div>
+<div>
+    <img src="https://github.com/samirarezai/samirarezai/blob/main/ryland-dean-6k6N8HTrXyE-unsplash.jpg?raw=true"/> 
+</div>
 <!-- first row -->
 <p align="center">
 <a href="https://samirarezai.github.io"><img alt="GitHub" src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dsamirarezai&longCache=true">
