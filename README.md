@@ -11,10 +11,11 @@
 <a href="https://linkedin.com/in/samira-rezaei/" target="blank">
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="arshiamidos" height="20" width="20" />
 </a>
-    </p>
-    <a href="https://t.me/imsinar" target="blank">
+     <a href="https://t.me/imsinar" target="blank">
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="arshiamidos" height="20" width="20" />
 </a>
+    </p>
+   
 <!--
 **samirarezai/samirarezai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
