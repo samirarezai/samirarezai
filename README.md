@@ -3,6 +3,9 @@
     <img src="https://emojis.slackmojis.com/emojis/images/1531849353/4244/blob-octopus.gif" width="60" height="60"/> 
     <img src="https://emojis.slackmojis.com/emojis/images/1531849353/4244/blob-octopus.gif" width="60" height="60" align="right"/> 
 </div>
+<div>
+    <img src="https://emojis.slackmojis.com/emojis/images/1531849353/4244/blob-octopus.gif" width="60" height="60" align="center"/> 
+</div>
 <h1 align="center">
     Welcome
     </h1>
