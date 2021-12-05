@@ -1,4 +1,4 @@
-
+![Hey there, I'm Samira. I'm a software developer, a maker and infosec enthusiast. Check out my work](https://github.com/CyrisXD/CyrisXD/raw/master/bio.gif)
 
  <p align="center">
  <img src="https://img.shields.io/badge/Age-20-brightgreen" />
@@ -6,8 +6,9 @@
   <img src="https://img.shields.io/badge/Lives-Tehran-brightgreen" />
   <img src="https://img.shields.io/badge/Languages-English%20%2F%20Persian-brightgreen" />
 </p>
-<hr>
+
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Samira Rezayi </h1>
+<div><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" /></div>
 <h3 align="center">Front End Web developer </h3>
 </p>
 
@@ -20,8 +21,13 @@
   </em> 
   </p>
   <p align="center">
+ <a href="https://linkedin.com/in/samira-rezaei/" target="blank">
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="arshiamidos" height="20" width="20" />
+</a>
+     <a href="https://t.me/imsinar" target="blank">
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="arshiamidos" height="20" width="20" />
+</a>
 <a href="https://www.hackerrank.com/esmiiroo" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="hack_ovindu" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/samira-rezaei/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174857.png" alt="lin_ovindu" height="30" width="40" /></a>  
  <a href = "samirarezai1996@gmail.com"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="30" width="40" /></a>
 </p>
 <p align="center">
