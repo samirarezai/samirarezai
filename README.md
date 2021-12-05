@@ -1,4 +1,4 @@
-![Hey there, I'm Samira. I'm a software developer, a maker and infosec enthusiast. Check out my work](https://github.com/CyrisXD/CyrisXD/raw/master/bio.gif)
+
 
  <p align="center">
  <img src="https://img.shields.io/badge/Age-20-brightgreen" />
