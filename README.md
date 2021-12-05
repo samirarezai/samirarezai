@@ -1,7 +1,7 @@
 
 
  <p align="center">
-<img alt="Ansible Quality Score" src="https://img.shields.io/ansible/quality/samira?color=green&label=age&logo=age&logoColor=green">
+<img alt="Ansible Quality Score" src="https://img.shields.io/badge/age-20-brightgreen">
   <img src="https://img.shields.io/badge/Focus-Machine%20Learning-brightgreen" />
   <img src="https://img.shields.io/badge/Lives-Sri%20Lanka-success" />
   <img src="https://img.shields.io/badge/Languages-English%20%26%20Sinhala-brightgreen" />
