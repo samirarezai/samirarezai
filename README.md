@@ -1,10 +1,10 @@
 
 
  <p align="center">
-<img alt="https://img.shields.io/badge/Age-20-brightgreen" />
+ <img src="https://img.shields.io/badge/Age-20-brightgreen" />
   <img src="https://img.shields.io/badge/Focus-JavaScript-brightgreen" />
-  <img src="https://img.shields.io/badge/Lives-Sri%20Lanka-success" />
-  <img src="https://img.shields.io/badge/Languages-English%20%26%20Sinhala-brightgreen" />
+  <img src="https://img.shields.io/badge/Lives-Tehran-brightgreen" />
+  <img src="https://img.shields.io/badge/Languages-English%20%2F%20Persian-brightgreen" />
 </p>
 <hr>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Samira Rezayi </h1>
