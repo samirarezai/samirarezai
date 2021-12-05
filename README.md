@@ -43,12 +43,17 @@
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***My working tools...***
 <p align="left">
   
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"> </code>
+ <code> <img height="50" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"> </code>
+ <code> <img height="50" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg"> </code>
+ <code> <img height="50" src="https://www.vectorlogo.zone/logos/jquery/jquery-ar21.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-ar21.svg"> </code>
+  <code> <img height="50" src="https://www.vectorlogo.zone/logos/awesome-emoji/awesome-emoji-ar21.svg"> </code>
+ <code> <img height="50" src="https://www.vectorlogo.zone/logos/axios/axios-ar21.svg"> </code>
+ <code> <img height="50" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"> </code>
  
   <hr>
   <p align="center">
