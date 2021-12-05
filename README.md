@@ -55,7 +55,7 @@
  <code> <img height="50" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"> </code>
  <code> <img height="50" src="https://www.vectorlogo.zone/logos/font-awesome/font-awesome-ar21.svg"> </code>
  
-  <hr>
+<!--   <hr>
   <p align="center">
  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
  
@@ -67,7 +67,7 @@
 
 
 <p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
-<img src="https://github-profile-trophy.vercel.app/?username=OvinduWijethunge&theme=juicyfresh&no-bg=true" />
+<img src="https://github-profile-trophy.vercel.app/?username=OvinduWijethunge&theme=juicyfresh&no-bg=true" /> -->
 
 
 
