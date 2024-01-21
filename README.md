@@ -39,7 +39,7 @@
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
 
-✔ I’m currently learning about **Vue Js**🥰<br>
+✔ I’m currently learning about **Node Js**🥰<br>
 ✔ I’m looking to collaborate with any **Open - Source React Js projects**<br>
 ✔ Ask from me anything you want, If I am alive I will answer within seconds 😉<br>
 ✔ Fun fact : *I Always try to learn something new and then sleep till it store in the brain* 😎<br><br><br><br>
