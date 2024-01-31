@@ -41,14 +41,15 @@ Qualities
 <h3 style="border-bottom: 1px solid #333030;">
 Social
 </h3>
-
-<a href="https://gitlab.com/samirarezai1996">
+<div>
+<a href="https://gitlab.com/samirarezai1996" >
 <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" alt="Samira's gitlab"/>
 </a>
-<a href="https://www.linkedin.com/in/samira-rezaei/">
+<a href="https://www.linkedin.com/in/samira-rezaei/" style="margin: 0 10px">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Samira's linkedin"/>
 </a>
 <a href="https://www.linkedin.com/in/samira-rezaei/">
 <img src="https://aleen42.github.io/badges/src/stackoverflow.svg" alt="Samira's stackoverflow"/>
 </a>
+</div>
 
