@@ -5,7 +5,7 @@
 
 <img src="https://github.com/samirarezai/samirarezai/blob/main/front-end.png" align="center" alt="my banner">
 
-<p>
+<p style="font-weight: bold">
 😇
 Dynamic Front-End Web Developer with +4 years of experience. Proficient in Next.js and React.js, optimizing performance and SEO.
 </p>
