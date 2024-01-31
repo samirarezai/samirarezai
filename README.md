@@ -68,7 +68,7 @@ Social
 </div>
 
 <hr/>
-<!-- state -->
+
 <!-- status codes -->
 <a align="center" href="https://samirarezai.github.io">
     <p align="center">
