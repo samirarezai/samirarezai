@@ -1,6 +1,6 @@
 <h1>
 <img src="https://github.com/samirarezai/samirarezai/blob/main/logo.png" style="width:80px;height:80px;" alt="Samira Rezayi">
-<span style="margin-bottom: 10px;">Samira rezayi</span>
+<span style="display:inline-block;margin-bottom: 10px;">Samira rezayi</span>
 </h1>
 <hr/>
 <p>
