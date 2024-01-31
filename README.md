@@ -12,19 +12,26 @@
 
 
 <h1 style="border-bottom: 2px solid #333030;">
-<img src="https://github.com/samirarezai/samirarezai/blob/main/logo.png" style="width:40px;height:40px;" alt="Samira Rezayi">
-<span style="display:inline-block;">Samira Rezayi</span>
+<a href="https://samirarezai.github.io"><img src="https://github.com/samirarezai/samirarezai/blob/main/logo.png" style="width:40px;height:40px;" alt="Samira Rezayi"></a>
+<a href="https://samirarezai.github.io">Samira Rezayi</a>
 </h1>
 
 
 <p style="font-weight: bold">
+<a href="https://samirarezai.github.io">
 😇
 Dynamic Front-End Web Developer with +4 years of experience. Proficient in Next.js and React.js, optimizing performance and SEO.
+</a>
 </p>
 <p>
+<a href="https://samirarezai.github.io">
 Eager to expand expertise by gaining hands-on experience with Node.js. 
+</a>
 </p>
-<p>Proven track record in cryptocurrency and e-commerce projects. Committed to clean code and innovation. 🔮🎉
+<p>
+<a href="https://samirarezai.github.io">
+Proven track record in cryptocurrency and e-commerce projects. Committed to clean code and innovation. 🔮🎉
+</a>
 </p>
 
 
