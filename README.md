@@ -2,7 +2,7 @@
 <img src="https://github.com/samirarezai/samirarezai/blob/main/logo.png" style="width:40px;height:40px;" alt="Samira Rezayi">
 <span style="display:inline-block;">Samira rezayi</span>
 </h1>
-<hr/>
+
 <img src="https://github.com/samirarezai/samirarezai/blob/main/front-end.png" align="center" alt="my banner">
 
 <p>
