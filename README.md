@@ -3,6 +3,8 @@
 <span style="display:inline-block;margin-bottom: 10px;">Samira rezayi</span>
 </h1>
 <hr/>
+<img src="https://github.com/samirarezai/samirarezai/blob/main/front-end.png" align="center" alt="my banner">
+
 <p>
 😇
 Dynamic Front-End Web Developer with +4 years of experience. Proficient in Next.js and React.js, optimizing performance and SEO.
@@ -13,5 +15,4 @@ Eager to expand expertise by gaining hands-on experience with Node.js.
 <p>Proven track record in cryptocurrency and e-commerce projects. Committed to clean code and innovation. 🔮🎉
 </p>
 
-<img src="https://github.com/samirarezai/samirarezai/blob/main/front-end.png" align="center" alt="my banner">
 
