@@ -15,6 +15,7 @@ Eager to expand expertise by gaining hands-on experience with Node.js.
 <p>Proven track record in cryptocurrency and e-commerce projects. Committed to clean code and innovation. 🔮🎉
 </p>
 
+<hr/>
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
