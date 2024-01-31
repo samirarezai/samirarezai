@@ -18,7 +18,7 @@ Eager to expand expertise by gaining hands-on experience with Node.js.
 
 
 <h3 style="border-bottom: 1px solid #333030;">
-Qualities
+Tech Stacks
 </h3>
 
 
