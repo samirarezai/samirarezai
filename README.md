@@ -4,19 +4,20 @@
     <a align="center" href="https://samirarezai.github.io"><img src="https://emojis.slackmojis.com/emojis/images/1531849353/4244/blob-octopus.gif" width="60" height="60" align="right"/> </a>
 </div>
 
+<!-- center -->
 <p align="center">
 <a align="center" href="https://samirarezai.github.io">
 <img src="https://github.com/samirarezai/samirarezai/blob/main/front-end.png" align="center" alt="my banner"/>
 </a>
 </p>
 
-
+<!-- name -->
 <h1 style="border-bottom: 2px solid #333030;">
 <img src="https://github.com/samirarezai/samirarezai/blob/main/logo.png" style="width:40px;height:40px;" alt="Samira Rezayi">
 <span style="display:inline-block;">Samira Rezayi</span>
 </h1>
 
-
+<!-- text -->
 <p style="font-weight: bold">
 😇
 Dynamic Front-End Web Developer with +4 years of experience. Proficient in Next.js and React.js, optimizing performance and SEO.
@@ -28,7 +29,7 @@ Eager to expand expertise by gaining hands-on experience with Node.js.
 </p>
 
 
-
+<!-- Stacks -->
 <h3 style="border-bottom: 1px solid #333030;">
 Tech Stacks
 </h3>
@@ -50,6 +51,7 @@ Tech Stacks
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
 
+<!-- social -->
 <h3 style="border-bottom: 1px solid #333030;">
 Social
 </h3>
@@ -66,7 +68,7 @@ Social
 </div>
 
 <hr/>
-
+<!-- state -->
 <!-- status codes -->
 <a align="center" href="https://samirarezai.github.io">
     <p align="center">
