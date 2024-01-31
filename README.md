@@ -1,6 +1,7 @@
 <!-- top left -->
 <div>
-    <img src="https://emojis.slackmojis.com/emojis/images/1531849353/4244/blob-octopus.gif" width="60" height="60"/> 
+    <img src="https://emojis.slackmojis.com/emojis/images/1531849353/4244/blob-octopus.gif" width="60" height="60"/>
+<img src="https://github.com/samirarezai/samirarezai/blob/main/front-end.png" align="center" alt="my banner">
     <img src="https://emojis.slackmojis.com/emojis/images/1531849353/4244/blob-octopus.gif" width="60" height="60" align="right"/> 
 </div>
 
@@ -9,7 +10,7 @@
 <span style="display:inline-block;">Samira Rezayi</span>
 </h1>
 
-<img src="https://github.com/samirarezai/samirarezai/blob/main/front-end.png" align="center" alt="my banner">
+
 
 <p style="font-weight: bold">
 😇
