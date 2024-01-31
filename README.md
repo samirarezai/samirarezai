@@ -1,70 +1,14 @@
-
-
- <p align="center">
-  <img src="https://img.shields.io/badge/Focus-JavaScript-brightgreen" />
-  <img src="https://img.shields.io/badge/Lives-Tehran-brightgreen" />
-  <img src="https://img.shields.io/badge/Languages-English%20%2F%20Persian-brightgreen" />
+<h1>
+Samira rezayi
+</h1>
+<hr/>
+<p>
+😇
+Dynamic Front-End Web Developer with +4 years of experience. Proficient in Next.js and React.js, optimizing performance and SEO.
 </p>
-
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Samira Rezayi </h1>
-<div><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" /></div>
-<h3 align="center">Front End Web developer </h3>
+<p>
+Eager to expand expertise by gaining hands-on experience with Node.js. 
 </p>
-
-
-
-<p align="center">
-  <em>
-    Hello, I am Samira Rezayi a passionate self-learner</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Javascript Web Developer</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
-    with <b>React Js</b> and always looking to find best patterns
-  </em> 
-  </p>
-  <p align="center">
-
-<a href="https://www.hackerrank.com/esmiiroo" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="hack_ovindu" height="30" width="40" /></a>
- <a href = "samirarezai1996@gmail.com"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="30" width="40" /></a>
+<p>Proven track record in cryptocurrency and e-commerce projects. Committed to clean code and innovation. 🔮🎉
 </p>
-<br><br>
-
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
-
-✔ I’m currently learning about **Node Js**🥰<br>
-✔ I’m looking to collaborate with any **Open - Source React Js projects**<br>
-✔ Ask from me anything you want, If I am alive I will answer within seconds 😉<br>
-✔ Fun fact : *I Always try to learn something new and then sleep till it store in the brain* 😎<br><br><br><br>
- 
-
-  
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"> </code>
- <code> <img height="50" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"> </code>
- <code> <img height="50" src="https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg"> </code>
- <code> <img height="50" src="https://www.vectorlogo.zone/logos/jquery/jquery-ar21.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-ar21.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/awesome-emoji/awesome-emoji-ar21.svg"> </code>
- <code> <img height="50" src="https://www.vectorlogo.zone/logos/axios/axios-ar21.svg"> </code>
- <code> <img height="50" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"> </code>
- <code> <img height="50" src="https://www.vectorlogo.zone/logos/font-awesome/font-awesome-ar21.svg"> </code>
- 
-<!--   <hr>
-  <p align="center">
- <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
- 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=OvinduWijethunge&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=OvinduWijethunge&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
-<br><br><br><br><br>
-
-<hr>
-
-
-<p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
-<img src="https://github-profile-trophy.vercel.app/?username=OvinduWijethunge&theme=juicyfresh&no-bg=true" /> -->
-
-
-
-
-
-
-
-
+<img src="https://samirarezaei.githubusercontent.com/White.png" alt="my banner">
