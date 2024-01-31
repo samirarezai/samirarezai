@@ -1,4 +1,4 @@
-<h1 style="border-bottom: 2px solid #333030">
+<h1 style="border-bottom: 2px solid #333030;">
 <img src="https://github.com/samirarezai/samirarezai/blob/main/logo.png" style="width:40px;height:40px;" alt="Samira Rezayi">
 <span style="display:inline-block;">Samira Rezayi</span>
 </h1>
@@ -17,7 +17,7 @@ Eager to expand expertise by gaining hands-on experience with Node.js.
 
 
 
-<h4 style="border-bottom: 1px solid #333030">
+<h4 style="border-bottom: 1px solid #333030;">
 Qualities
 </h4>
 
@@ -38,7 +38,7 @@ Qualities
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
 
-<h4 style="border-bottom: 1px solid #333030">
+<h4 style="border-bottom: 1px solid #333030;">
 Social
 </h4>
 
