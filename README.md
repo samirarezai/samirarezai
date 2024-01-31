@@ -1,7 +1,7 @@
 <!-- top left -->
 <div>
-    <img src="https://emojis.slackmojis.com/emojis/images/1531849353/4244/blob-octopus.gif" width="60" height="60"/> 
-    <img src="https://emojis.slackmojis.com/emojis/images/1531849353/4244/blob-octopus.gif" width="60" height="60" align="right"/> 
+    <a align="center" href="https://samirarezai.github.io"><img src="https://emojis.slackmojis.com/emojis/images/1531849353/4244/blob-octopus.gif" width="60" height="60"/> </a>
+    <a align="center" href="https://samirarezai.github.io"><img src="https://emojis.slackmojis.com/emojis/images/1531849353/4244/blob-octopus.gif" width="60" height="60" align="right"/> </a>
 </div>
 
 <p align="center">
