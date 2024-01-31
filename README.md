@@ -58,6 +58,7 @@ Social
 <!-- status codes -->
 <a align="center" href="https://arash-hacker.github.io">
     <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=samirarezai&show_icons=true&theme=synthwave&title_color=5e17eb&text_color=000&bg_color=ffdcd1" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samirarezai&layout=compact&theme=tokyonight" alt="languages" height="165">
+    <img src="https://github-readme-stats.vercel.app/api?username=samirarezai&show_icons=true&theme=synthwave&title_color=5e17eb&text_color=000&bg_color=ffdcd1" alt="my github stats" width="420"/>&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samirarezai&layout=compact&theme=synthwave&title_color=5e17eb&text_color=000&bg_color=ffdcd1" alt="languages" height="165"/>
     </p>
 </a>
