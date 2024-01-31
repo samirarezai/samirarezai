@@ -1,10 +1,10 @@
 <!-- top left -->
 <div>
     <img src="https://emojis.slackmojis.com/emojis/images/1531849353/4244/blob-octopus.gif" width="60" height="60"/>
-<img src="https://github.com/samirarezai/samirarezai/blob/main/front-end.png" align="center" alt="my banner">
+
     <img src="https://emojis.slackmojis.com/emojis/images/1531849353/4244/blob-octopus.gif" width="60" height="60" align="right"/> 
 </div>
-
+<img src="https://github.com/samirarezai/samirarezai/blob/main/front-end.png" align="center" alt="my banner">
 <h1 style="border-bottom: 2px solid #333030;">
 <img src="https://github.com/samirarezai/samirarezai/blob/main/logo.png" style="width:40px;height:40px;" alt="Samira Rezayi">
 <span style="display:inline-block;">Samira Rezayi</span>
