@@ -15,6 +15,11 @@ Eager to expand expertise by gaining hands-on experience with Node.js.
 <p>Proven track record in cryptocurrency and e-commerce projects. Committed to clean code and innovation. 🔮🎉
 </p>
 
+
+
+<h6>
+Qualities
+</h6>
 <hr/>
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -32,4 +37,18 @@ Eager to expand expertise by gaining hands-on experience with Node.js.
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
+
+<h6>
+Social
+</h6>
+<hr/>
+<a href="https://gitlab.com/samirarezai1996">
+<img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" alt="Samira's gitlab"/>
+</a>
+<a href="https://www.linkedin.com/in/samira-rezaei/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Samira's linkedin"/>
+</a>
+<a href="https://www.linkedin.com/in/samira-rezaei/">
+<img src="https://aleen42.github.io/badges/src/stackoverflow.svg" alt="Samira's stackoverflow"/>
+</a>
 
