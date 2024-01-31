@@ -1,5 +1,5 @@
 <h1>
-<img src="https://github.com/samirarezai/samirarezai/blob/main/logo.png" width="10" height="10" alt="Samira Rezayi">
+<img src="https://github.com/samirarezai/samirarezai/blob/main/logo.png" style="width:20px;height:20px;" alt="Samira Rezayi">
 Samira rezayi
 </h1>
 <hr/>
