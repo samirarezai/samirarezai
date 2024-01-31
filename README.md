@@ -55,4 +55,4 @@ Social
 
 <hr/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=samirarezai&show_icons=true&theme=synthwave)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=samirarezai&show_icons=true&theme=synthwave&title_color=5e17eb&text_color=000&bg_color=ffdcd1)
