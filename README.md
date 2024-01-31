@@ -3,9 +3,10 @@
     <img src="https://emojis.slackmojis.com/emojis/images/1531849353/4244/blob-octopus.gif" width="60" height="60"/> 
     <img src="https://emojis.slackmojis.com/emojis/images/1531849353/4244/blob-octopus.gif" width="60" height="60" align="right"/> 
 </div>
-<div>
+
+<p align="center">
 <img src="https://github.com/samirarezai/samirarezai/blob/main/front-end.png" align="center" alt="my banner">
-</div>
+</p>
 
 
 <h1 style="border-bottom: 2px solid #333030;">
