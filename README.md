@@ -5,7 +5,9 @@
 </div>
 
 <p align="center">
-<img src="https://github.com/samirarezai/samirarezai/blob/main/front-end.png" align="center" alt="my banner">
+<a align="center" href="https://samirarezai.github.io">
+<img src="https://github.com/samirarezai/samirarezai/blob/main/front-end.png" align="center" alt="my banner"/>
+</a>
 </p>
 
 
