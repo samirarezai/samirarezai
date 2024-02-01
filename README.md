@@ -7,7 +7,7 @@
 <!-- center -->
 <p align="center">
 <a align="center" href="https://samirarezai.github.io">
-<img src="https://github.com/samirarezai/samirarezai/blob/main/front-end.png" align="center" alt="my banner"/>
+<img src="https://github.com/samirarezai/samirarezai/blob/main/front-end-image.png" align="center" alt="my banner"/>
 </a>
 </p>
 
