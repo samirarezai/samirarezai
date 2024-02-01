@@ -12,10 +12,10 @@
 </p>
 
 <!-- name -->
-<div style="border-bottom: 2px solid #333030;margin-bottom: 0">
+<h2 style="border-bottom: 0.5px solid red; width: 20%; margin: 0 auto;">
 <img src="https://github.com/samirarezai/samirarezai/blob/main/name.png" style="height:60px;" alt="Samira Rezayi">
-</div>
-<hr style="margin:0 !important;"/>
+</h2>
+
 <!-- text -->
 <p style="font-weight: bold">
 😇
