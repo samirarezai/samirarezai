@@ -12,7 +12,7 @@
 </p>
 
 <!-- name -->
-<h1 style="border-bottom: 2px solid #333030;">
+<h1 style="border-bottom: 2px solid #333030;margin-bottom: 0">
 
 [//]: # (<img src="https://github.com/samirarezai/samirarezai/blob/main/logo.png" style="width:40px;height:40px;" alt="Samira Rezayi">)
 <img src="https://github.com/samirarezai/samirarezai/blob/main/name.png" style="height:60px;" alt="Samira Rezayi">
