@@ -12,9 +12,9 @@
 </p>
 
 <!-- name -->
-<1 style="border-bottom: 2px solid red; width: 20%; margin: 0 auto;">
+<h1 style="border-bottom: 2px solid red; width: 20%; margin: 0 auto;">
 <img src="https://github.com/samirarezai/samirarezai/blob/main/name.png" style="height:60px;" alt="Samira Rezayi">
-</1>
+</h1>
 
 <!-- text -->
 <p style="font-weight: bold">
