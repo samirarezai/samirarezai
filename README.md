@@ -13,7 +13,9 @@
 
 <!-- name -->
 <h1 style="border-bottom: 2px solid red; width: 20%; margin: 0 auto;">
+<a href="https://samirarezai.github.io">
 <img src="https://github.com/samirarezai/samirarezai/blob/main/name.png" style="height:60px;" alt="Samira Rezayi">
+</a>
 </h1>
 
 <!-- text -->
