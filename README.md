@@ -14,7 +14,8 @@
 <!-- name -->
 <h1 style="border-bottom: 2px solid #333030;">
 <img src="https://github.com/samirarezai/samirarezai/blob/main/logo.png" style="width:40px;height:40px;" alt="Samira Rezayi">
-<span style="display:inline-block;">Samira Rezayi</span>
+<img src="https://github.com/samirarezai/samirarezai/blob/main/name.png" style="width:40px;height:40px;" alt="Samira Rezayi">
+
 </h1>
 
 <!-- text -->
