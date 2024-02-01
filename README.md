@@ -15,7 +15,7 @@
 <div style="border-bottom: 2px solid #333030;margin-bottom: 0">
 <img src="https://github.com/samirarezai/samirarezai/blob/main/name.png" style="height:60px;" alt="Samira Rezayi">
 </div>
-<hr/>
+<hr style="margin:0 !important;"/>
 <!-- text -->
 <p style="font-weight: bold">
 😇
