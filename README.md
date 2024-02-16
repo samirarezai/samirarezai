@@ -52,7 +52,7 @@ Tech Stacks
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
 
-<!-- social -->
+<!-- social medial -->
 <h3 style="border-bottom: 1px solid #333030;">
 Social
 </h3>
