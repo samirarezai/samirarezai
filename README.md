@@ -63,7 +63,7 @@ Social
 <a href="https://www.linkedin.com/in/samira-rezaei/" style="margin: 0 10px">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Samira's linkedin"/>
 </a>
-<a href="https://www.linkedin.com/in/samira-rezaei/">
+<a href="https://stackoverflow.com/users/12902108/samira">
 <img src="https://aleen42.github.io/badges/src/stackoverflow.svg" alt="Samira's stackoverflow"/>
 </a>
 </div>
