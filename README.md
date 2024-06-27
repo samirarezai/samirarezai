@@ -21,7 +21,7 @@
 <!-- text -->
 <p style="font-weight: bold">
 😇
-Dynamic Front-End Web Developer with +4 years of experience. Proficient in Next.js and React.js, optimizing performance and SEO.
+Dynamic Front-End Web Developer with +5 years of experience. Proficient in Next.js and React.js, optimizing performance and SEO.
 </p>
 <p>
 Eager to expand expertise by gaining hands-on experience with Node.js. 
