@@ -5,7 +5,9 @@
 
 <!-- Animated Octopuses -->
 <img src="https://emojis.slackmojis.com/emojis/images/1531849353/4244/blob-octopus.gif" width="80" height="80"/>
+<img src="https://github.com/samirarezai/samirarezai/blob/main/hero-home.png?raw=true" width="100" height="100" style="margin: 0 20px;"/>
 <img src="https://emojis.slackmojis.com/emojis/images/1531849353/4244/blob-octopus.gif" width="80" height="80"/>
+<img src="https://github.com/samirarezai/samirarezai/blob/main/hero-home.png?raw=true" width="100" height="100" style="margin: 0 20px;"/>
 <img src="https://emojis.slackmojis.com/emojis/images/1531849353/4244/blob-octopus.gif" width="80" height="80"/>
 
 <!-- Typing Animation -->
@@ -67,6 +69,7 @@ const samira = {
 ### 🔧 Tools & Build
 <p align="center">
   <img src="https://skillicons.dev/icons?i=vite,npm,yarn,git,gitlab,vscode" />
+  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor" style="height: 48px;"/>
 </p>
 
 <details>
@@ -95,24 +98,28 @@ const samira = {
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=samirarezai&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F75C7E&icon_color=F75C7E&text_color=FFFFFF&count_private=true" alt="GitHub Stats"/>
-  <img width="49%" src="https://streak-stats.demolab.com/?user=samirarezai&theme=radical&hide_border=true&background=0D1117&stroke=F75C7E&ring=F75C7E&fire=F75C7E&currStreakLabel=F75C7E" alt="GitHub Streak"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=samirarezai&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=samirarezai&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=samirarezai&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F75C7E&text_color=FFFFFF&langs_count=8" alt="Top Languages"/>
-  <img width="49%" src="https://github-contributor-stats.vercel.app/api?username=samirarezai&limit=5&theme=radical&combine_all_yearly_contributions=true&hide_border=true&bg_color=0D1117&title_color=F75C7E&text_color=FFFFFF" alt="Top Contributions"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samirarezai&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=samirarezai&theme=tokyonight&hide_border=true&layout=compact" alt="Coding Stats"/>
 </p>
 
 <!-- Trophy Section -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=samirarezai&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=samirarezai&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" width="100%" alt="Trophy" />
 </p>
 
 <!-- Connect Section -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ## 🌐 Let's Connect
+
+<p align="center">
+  <img src="https://github.com/samirarezai/samirarezai/blob/main/hero-home.png?raw=true" width="80" height="80"/>
+</p>
 
 <p align="center">
   <a href="https://samirarezai.github.io">
