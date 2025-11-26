@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Samira%20Rezayi&fontSize=42&fontAlignY=30&animation=twinkling&fontColor=fff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=21,22,23&height=180&section=header&text=Samira%20Rezayi&fontSize=42&fontAlignY=30&animation=twinkling&fontColor=fff" width="100%"/>
 
 <p>
 <img align="left" src="https://emojis.slackmojis.com/emojis/images/1531849353/4244/blob-octopus.gif" width="80" height="80"/>
