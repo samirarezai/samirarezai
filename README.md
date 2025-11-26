@@ -77,7 +77,7 @@ const samira = {
 
 ## 📊 GitHub Analytics
 
-<p align="center">
+<!-- <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=samirarezai&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=samirarezai&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
@@ -85,7 +85,7 @@ const samira = {
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samirarezai&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
   <img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=samirarezai&theme=tokyonight&hide_border=true&layout=compact" alt="Coding Stats"/>
-</p>
+</p> -->
 
 <!-- Trophy Section -->
 <p align="center">
