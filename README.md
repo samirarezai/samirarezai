@@ -110,9 +110,6 @@ const samira = {
 
 ## 🌐 Let's Connect
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/samirarezai/samirarezai.github.io/main/assets/img/branding/main-logo.png" width="80" height="80"/>
-</p>
 
 <p align="center">
   <a href="https://samirarezai.github.io">
@@ -128,6 +125,11 @@ const samira = {
     <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow"/>
   </a>
 </p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samirarezai/samirarezai.github.io/main/assets/img/branding/main-logo.png" width="80" height="80"/>
+</p>
+
 
 <!-- Snake Animation -->
 <picture>
