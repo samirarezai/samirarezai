@@ -92,10 +92,6 @@ const samira = {
 
 </details>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/samirarezai/samirarezai.github.io/main/assets/img/1.gif" width="100"/>
-</p>
-
 ## 📊 GitHub Analytics
 
 <p align="center">
@@ -115,9 +111,6 @@ const samira = {
 
 <!-- Connect Section -->
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/samirarezai/samirarezai.github.io/main/assets/img/2.gif" width="100"/>
-</p>
 
 ## 🌐 Let's Connect
 
