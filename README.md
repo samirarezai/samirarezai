@@ -27,7 +27,7 @@ const samira = {
 };
 ```
 
-<table>
+<!-- <table>
 <tr>
 <td width="60%" valign="top" border="0" style="border:0">
 
@@ -46,7 +46,7 @@ const samira = {
 
 </td>
 </tr>
-</table>
+</table> -->
 
 <br clear="both">
 
