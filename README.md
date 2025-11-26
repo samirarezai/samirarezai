@@ -4,10 +4,10 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Samira%20Rezaei&fontSize=42&fontAlignY=30&animation=twinkling&fontColor=fff" width="100%"/>
 
 <!-- Animated Octopuses -->
+<img src="https://emojis.slackmojis.com/emojis/images/1531849353/4244/blob-octopus.gif" width="80" height="80" style="float:left"/>
+
 <img src="https://emojis.slackmojis.com/emojis/images/1531849353/4244/blob-octopus.gif" width="80" height="80"/>
-<img src="https://github.com/samirarezai/samirarezai/blob/main/hero-home.png?raw=true" width="100" height="100" style="margin: 0 20px;"/>
-<img src="https://emojis.slackmojis.com/emojis/images/1531849353/4244/blob-octopus.gif" width="80" height="80"/>
-<img src="https://github.com/samirarezai/samirarezai/blob/main/hero-home.png?raw=true" width="100" height="100" style="margin: 0 20px;"/>
+
 <img src="https://emojis.slackmojis.com/emojis/images/1531849353/4244/blob-octopus.gif" width="80" height="80"/>
 
 <!-- Typing Animation -->
