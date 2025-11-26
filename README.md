@@ -40,7 +40,7 @@ const samira = {
 };
 ```
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/samirarezai/samirarezai.github.io/main/assets/img/2.gif">
 
 - 🔭 Currently working on cutting-edge web applications
 - 🌱 Exploring deep learning technologies
@@ -49,10 +49,6 @@ const samira = {
 - ⚡ Fun fact: I turn coffee into code ☕️→💻
 
 <br clear="both">
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/samirarezai/samirarezai.github.io/main/assets/img/2.gif" width="100"/>
-</p>
 
 ## 🛠️ Tech Stack
 
