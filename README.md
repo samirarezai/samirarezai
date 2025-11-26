@@ -5,11 +5,11 @@
 
 <table width="100%">
 <tr>
-<td width="33%" align="left">
+<td width="50%" align="left">
 <img src="https://emojis.slackmojis.com/emojis/images/1531849353/4244/blob-octopus.gif" width="80" height="80"/>
 </td>
 
-<td width="33%" align="right">
+<td width="50%" align="right">
 <img src="https://emojis.slackmojis.com/emojis/images/1531849353/4244/blob-octopus.gif" width="80" height="80"/>
 </td>
 </tr>
