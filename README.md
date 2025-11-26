@@ -27,9 +27,9 @@ const samira = {
 };
 ```
 
-<table border="0">
+<table>
 <tr>
-<td width="60%" valign="top">
+<td width="60%" valign="top" border="0">
 
 ### 🚀 What I'm Up To
 
@@ -40,7 +40,7 @@ const samira = {
 - ⚡ Fun fact: I turn coffee into code ☕️→💻
 
 </td>
-<td width="40%" valign="top">
+<td width="40%" valign="top" border="0">
 
 <img alt="Coding" width="100%" src="https://raw.githubusercontent.com/samirarezai/samirarezai.github.io/main/assets/img/2.gif">
 
