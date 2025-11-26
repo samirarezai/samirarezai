@@ -27,7 +27,7 @@ const samira = {
 };
 ```
 
-<table>
+<table border="0">
 <tr>
 <td width="60%" valign="top">
 
