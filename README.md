@@ -5,6 +5,8 @@
 
 <!-- Animated Octopuses -->
 <img src="https://emojis.slackmojis.com/emojis/images/1531849353/4244/blob-octopus.gif" width="80" height="80"/>
+<img src="https://emojis.slackmojis.com/emojis/images/1531849353/4244/blob-octopus.gif" width="80" height="80"/>
+<img src="https://emojis.slackmojis.com/emojis/images/1531849353/4244/blob-octopus.gif" width="80" height="80"/>
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Front-End+Web+Developer+%F0%9F%9A%80;7%2B+Years+of+Experience+%F0%9F%92%BB;Next.js+%7C+React.js+Expert+%E2%9A%9B%EF%B8%8F;Clean+Code+Advocate+%E2%9C%A8" alt="Typing SVG" /></a>
@@ -12,7 +14,7 @@
 </div>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="80"/>
+  <img src="https://raw.githubusercontent.com/samirarezai/samirarezai.github.io/main/assets/img/1.gif" width="100"/>
 </p>
 
 ## 💫 About Me
@@ -49,7 +51,7 @@ const samira = {
 <br clear="both">
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/samirarezai/samirarezai.github.io/main/assets/img/branding/main-logo.png" width="100"/>
+  <img src="https://raw.githubusercontent.com/samirarezai/samirarezai.github.io/main/assets/img/2.gif" width="100"/>
 </p>
 
 ## 🛠️ Tech Stack
@@ -91,7 +93,7 @@ const samira = {
 </details>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="100"/>
+  <img src="https://raw.githubusercontent.com/samirarezai/samirarezai.github.io/main/assets/img/1.gif" width="100"/>
 </p>
 
 ## 📊 GitHub Analytics
@@ -114,7 +116,7 @@ const samira = {
 <!-- Connect Section -->
 
 <p align="center">
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="120"/>
+  <img src="https://raw.githubusercontent.com/samirarezai/samirarezai.github.io/main/assets/img/2.gif" width="100"/>
 </p>
 
 ## 🌐 Let's Connect
