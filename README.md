@@ -23,19 +23,7 @@ const samira = {
     pronouns: "she" | "her",
     role: "Dynamic Front-End Web Developer 💻",
     experience: "7+ years",
-    code: ["JavaScript", "TypeScript", "HTML", "CSS", "SASS"],
-    tools: {
-        frameworks: ["Next.js", "React.js"],
-        styling: ["TailwindCSS", "MUI", "Ant Design", "Bootstrap"],
-        stateManagement: ["Redux", "Context API", "Zustand"],
-        buildTools: ["Vite", "Webpack", "npm", "yarn"]
-    },
-    architecture: ["SPA", "SSR", "SSG", "PWA"],
-    currentFocus: ["Performance Optimization ⚡", "SEO 🎯", "Clean Code ✨"],
-    exploring: ["Deep Learning 🧠", "AI Technologies 🤖", "Web3 🌐"],
-    domains: ["Cryptocurrency 💰", "E-commerce 🛒", "FinTech 📊"],
-    challenge: "Building scalable, performant web applications that delight users",
-    funFact: "I debug with console.log and I'm not ashamed! 😄"
+    code: ["JavaScript", "TypeScript", "HTML", "CSS", "SASS"]
 };
 ```
 
