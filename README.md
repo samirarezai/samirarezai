@@ -126,9 +126,7 @@ const samira = {
   </a>
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/samirarezai/samirarezai.github.io/main/assets/img/branding/main-logo.png" width="80" height="80"/>
-</p>
+
 
 
 <!-- Snake Animation -->
@@ -138,9 +136,14 @@ const samira = {
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/samirarezai/samirarezai/output/github-contribution-grid-snake.svg">
 </picture>
 
+
 <!-- Profile Views Counter -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=samirarezai&label=Profile%20Views&color=F75C7E&style=for-the-badge" alt="Profile Views"/>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samirarezai/samirarezai.github.io/main/assets/img/branding/main-logo.png" width="80" height="80"/>
 </p>
 
 <!-- Footer Wave -->
