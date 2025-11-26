@@ -20,13 +20,22 @@
 
 ```typescript
 const samira = {
-    role: "Dynamic Front-End Web Developer",
+    pronouns: "she" | "her",
+    role: "Dynamic Front-End Web Developer 💻",
     experience: "7+ years",
-    expertise: ["Next.js", "React.js", "TypeScript"],
-    focus: ["Performance Optimization", "SEO", "Clean Code"],
-    exploring: ["Deep Learning", "AI Technologies"],
-    domains: ["Cryptocurrency", "E-commerce"],
-    motto: "Innovation through elegant code ✨"
+    code: ["JavaScript", "TypeScript", "HTML", "CSS", "SASS"],
+    tools: {
+        frameworks: ["Next.js", "React.js"],
+        styling: ["TailwindCSS", "MUI", "Ant Design", "Bootstrap"],
+        stateManagement: ["Redux", "Context API", "Zustand"],
+        buildTools: ["Vite", "Webpack", "npm", "yarn"]
+    },
+    architecture: ["SPA", "SSR", "SSG", "PWA"],
+    currentFocus: ["Performance Optimization ⚡", "SEO 🎯", "Clean Code ✨"],
+    exploring: ["Deep Learning 🧠", "AI Technologies 🤖", "Web3 🌐"],
+    domains: ["Cryptocurrency 💰", "E-commerce 🛒", "FinTech 📊"],
+    challenge: "Building scalable, performant web applications that delight users",
+    funFact: "I debug with console.log and I'm not ashamed! 😄"
 };
 ```
 
@@ -86,13 +95,13 @@ const samira = {
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=samirarezai&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F75C7E&icon_color=F75C7E&text_color=FFFFFF" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=samirarezai&theme=radical&hide_border=true&background=0D1117&stroke=F75C7E&ring=F75C7E&fire=F75C7E&currStreakLabel=F75C7E" alt="GitHub Streak"/>
+  <img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=samirarezai&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F75C7E&icon_color=F75C7E&text_color=FFFFFF&count_private=true" alt="GitHub Stats"/>
+  <img width="49%" src="https://streak-stats.demolab.com/?user=samirarezai&theme=radical&hide_border=true&background=0D1117&stroke=F75C7E&ring=F75C7E&fire=F75C7E&currStreakLabel=F75C7E" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samirarezai&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F75C7E&text_color=FFFFFF" alt="Top Languages"/>
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=samirarezai&theme=react-dark&hide_border=true&bg_color=0D1117&color=F75C7E&line=F75C7E&point=FFFFFF" alt="Contribution Graph"/>
+  <img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=samirarezai&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F75C7E&text_color=FFFFFF&langs_count=8" alt="Top Languages"/>
+  <img width="49%" src="https://github-contributor-stats.vercel.app/api?username=samirarezai&limit=5&theme=radical&combine_all_yearly_contributions=true&hide_border=true&bg_color=0D1117&title_color=F75C7E&text_color=FFFFFF" alt="Top Contributions"/>
 </p>
 
 <!-- Trophy Section -->
