@@ -27,13 +27,26 @@ const samira = {
 };
 ```
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/samirarezai/samirarezai.github.io/main/assets/img/2.gif">
+<table>
+<tr>
+<td width="60%" valign="top">
+
+### 🚀 What I'm Up To
 
 - 🔭 Currently working on cutting-edge web applications
 - 🌱 Exploring deep learning technologies
 - 💡 Passionate about clean code and innovation
 - 🎯 Specialized in cryptocurrency and e-commerce projects
 - ⚡ Fun fact: I turn coffee into code ☕️→💻
+
+</td>
+<td width="40%" valign="top">
+
+<img alt="Coding" width="100%" src="https://raw.githubusercontent.com/samirarezai/samirarezai.github.io/main/assets/img/2.gif">
+
+</td>
+</tr>
+</table>
 
 <br clear="both">
 
