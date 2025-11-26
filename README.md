@@ -114,7 +114,7 @@ const samira = {
 ## 🌐 Let's Connect
 
 <p align="center">
-  <img src="https://github.com/samirarezai/samirarezai.github.io/blob/main/assets/img/hero/hero-home.png?raw=true" width="80" height="80"/>
+  <img src="https://github.com/samirarezai/samirarezai.github.io/blob/main/assets/img/branding/main-logo.png?raw=true" width="80" height="80"/>
 </p>
 
 <p align="center">
