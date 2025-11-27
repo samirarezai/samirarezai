@@ -6,8 +6,8 @@
 </a>
 
 <p>
-<img align="left" src="https://emojis.slackmojis.com/emojis/images/1531849353/4244/blob-octopus.gif" width="64" height="64"/>
-<img align="right" src="https://emojis.slackmojis.com/emojis/images/1531849353/4244/blob-octopus.gif" width="64" height="64"/>
+<a align="center" href="https://samirarezai.github.io"><img align="left" src="https://emojis.slackmojis.com/emojis/images/1531849353/4244/blob-octopus.gif" width="64" height="64"/></a>
+<a align="center" href="https://samirarezai.github.io"><img align="right" src="https://emojis.slackmojis.com/emojis/images/1531849353/4244/blob-octopus.gif" width="64" height="64"/></a>
 </p>
 
 <br clear="both">
@@ -125,7 +125,7 @@ REST APIs • GraphQL • Axios • SWR • Socket.io • PWA
 </a>
 <br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=samirarezai&theme=react&hide_border=true&background=0D1117&ring=00F7A1&fire=00F7A1&currStreakLabel=00F7A1" />
+<!-- <img src="https://github-readme-streak-stats.herokuapp.com?user=samirarezai&theme=react&hide_border=true&background=0D1117&ring=00F7A1&fire=00F7A1&currStreakLabel=00F7A1" /> -->
 
 </div>
 
@@ -156,20 +156,6 @@ REST APIs • GraphQL • Axios • SWR • Socket.io • PWA
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 </div>
-
-<br>
-
-```typescript
-const contactMe = () => {
-  return {
-    email: "Open to opportunities",
-    portfolio: "https://samirarezai.github.io",
-    linkedin: "Let's connect!",
-    availability: "Open for freelance projects",
-    response_time: "Usually within 24 hours"
-  };
-};
-```
 <br>
 
 ---
