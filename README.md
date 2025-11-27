@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=00F7A1&height=200&section=header&text=Samira%20Rezayi&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=fff&desc=Front-End%20Web%20Developer%20%7C%20Next.js%20Expert&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,20,24&height=200&section=header&text=Samira%20Rezayi&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=fff&desc=Front-End%20Web%20Developer%20%7C%20Next.js%20Expert&descAlignY=55&descSize=18" width="100%"/>
 
 <p>
 <img align="left" src="https://emojis.slackmojis.com/emojis/images/1531849353/4244/blob-octopus.gif" width="64" height="64"/>
