@@ -49,21 +49,20 @@ samira@dev:~$ cat about.json
 
 <br>
 
-## 🛠️ Tech Arsenal
 
 <div align="center">
 
-### Core Technologies
+
 <p>
   <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css&theme=dark" />
 </p>
 
-### Styling & UI
+
 <p>
   <img src="https://skillicons.dev/icons?i=tailwind,sass,bootstrap,materialui&theme=dark" />
 </p>
 
-### Tools & Workflow
+
 <p>
   <img src="https://skillicons.dev/icons?i=vite,npm,yarn,git,gitlab,vscode&theme=dark" />
   <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor" style="height: 48px; margin-left: 4px;"/>
@@ -114,15 +113,16 @@ REST APIs • GraphQL • Axios • SWR • Socket.io • PWA
 
 <br>
 
-## 📊 GitHub Performance
+
 
 <div align="center">
 
-<!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samirarezai&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00F7A1&icon_color=00F7A1&text_color=c9d1d9&count_private=true&include_all_commits=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samirarezai&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00F7A1&text_color=c9d1d9&langs_count=8" />
-
+<a align="center" href="https://samirarezai.github.io">
+    <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=samirarezai&show_icons=true&theme=tokyonight" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samirarezai&layout=compact&theme=tokyonight" alt="languages" height="165">
+    </p>
+</a>
 <br>
-<br> -->
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=samirarezai&theme=react&hide_border=true&background=0D1117&ring=00F7A1&fire=00F7A1&currStreakLabel=00F7A1" />
 
