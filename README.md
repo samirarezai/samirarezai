@@ -139,6 +139,7 @@ REST APIs • GraphQL • Axios • SWR • Socket.io • PWA
 <br>
 
 
+---
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://samirarezai.github.io)
@@ -147,18 +148,6 @@ REST APIs • GraphQL • Axios • SWR • Socket.io • PWA
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/12902108/samira)
 
 </div>
-
-<br>
-
-
-<div align="center">
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-<br>
-
----
 
 <div align="center">
 
