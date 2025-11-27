@@ -2,7 +2,7 @@
 
 <!-- Animated Header -->
 <a align="center" href="https://samirarezai.github.io">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,20,24&height=200&section=header&text=Samira%20Rezayi&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=fff&desc=Front-End%20Web%20Developer%20%7C%20Next.js%20Expert&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=36,37,38&height=200&section=header&text=Samira%20Rezayi&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=fff&desc=Front-End%20Web%20Developer%20%7C%20Next.js%20Expert&descAlignY=55&descSize=18" width="100%"/>
 </a>
 
 <p>
