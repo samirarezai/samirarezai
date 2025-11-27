@@ -43,26 +43,8 @@ samira@dev:~$ cat about.json
   "experience": "7+ years",
   "location": "🌍 Building the web from anywhere",
   "languages": ["JavaScript", "TypeScript", "HTML5", "CSS3", "SASS/SCSS"],
-  "frameworks": ["React.js", "Next.js", "Redux"],
-  "specialization": ["Cryptocurrency", "E-commerce", "SaaS Applications"],
-  "currentFocus": "Building scalable web applications with Next.js",
-  "codePhilosophy": "Clean, maintainable, and performant",
-  "funFact": "I debug with console.log and I'm not ashamed 🐛"
+  "frameworks": ["React.js", "Next.js", "Redux"]
 }
-```
-
-<br>
-
-## 🎯 Current Mission
-
-```bash
-samira@dev:~$ tail -f current_activities.log
-[2024] 🔭 Architecting modern web applications with Next.js 14
-[2024] 🌱 Exploring AI integration in front-end development
-[2024] 💡 Contributing to open-source React ecosystem
-[2024] 🎯 Optimizing performance for large-scale applications
-[2024] ⚡ Mastering TypeScript advanced patterns
-[2024] ☕ Converting coffee into production-ready code
 ```
 
 <br>
