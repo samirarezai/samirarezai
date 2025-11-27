@@ -1,152 +1,257 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=36,37,38&height=180&section=header&text=Samira%20Rezayi&fontSize=42&fontAlignY=30&animation=twinkling&fontColor=fff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=36,37,38&height=200&section=header&text=Samira%20Rezayi&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=fff&desc=Front-End%20Web%20Developer%20%7C%20Next.js%20Expert&descAlignY=55&descSize=18" width="100%"/>
 
-<p>
-<img align="left" src="https://emojis.slackmojis.com/emojis/images/1531849353/4244/blob-octopus.gif" width="64" height="64"/>
-<img align="right" src="https://emojis.slackmojis.com/emojis/images/1531849353/4244/blob-octopus.gif" width="64" height="64"/>
-</p>
-<!-- Typing Animation -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Front-End+Web+Developer+%F0%9F%9A%80;7%2B+Years+of+Experience+%F0%9F%92%BB;Next.js+%7C+React.js+Expert+%E2%9A%9B%EF%B8%8F;Clean+Code+Advocate+%E2%9C%A8" alt="Typing SVG" /></a>
+<!-- Terminal Typing Animation -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2500&pause=1000&color=00F7A1&center=true&vCenter=true&width=800&height=80&lines=samira%40terminal%3A~%24+whoami;Front-End+Web+Developer+%F0%9F%9A%80;7%2B+Years+Building+Digital+Experiences+%F0%9F%92%BB;Next.js+%7C+React.js+%7C+TypeScript+Expert+%E2%9A%9B%EF%B8%8F;Clean+Code+%7C+Performance+%7C+Innovation+%E2%9C%A8" alt="Typing SVG" />
+</a>
+
+<br>
+
+```ascii
+╔═══════════════════════════════════════════════════════════════════╗
+║  👩‍💻 Crafting pixel-perfect experiences, one component at a time  ║
+╚═══════════════════════════════════════════════════════════════════╝
+```
 
 </div>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/samirarezai/samirarezai.github.io/main/assets/img/1.gif" width="54"/>
-  <img alt="Coding" src="https://raw.githubusercontent.com/samirarezai/samirarezai.github.io/main/assets/img/2.gif" width="54" />
-</p>
-
-## About Me
-
-```typescript
-const samira = {
-    pronouns: "she" | "her",
-    role: "Dynamic Front-End Web Developer 💻",
-    experience: "7+ years",
-    code: ["JavaScript", "TypeScript", "HTML", "CSS", "SASS"]
-};
-```
-
-<!-- <table>
-<tr>
-<td width="60%" valign="top" border="0" style="border:0">
-
-### 🚀 What I'm Up To
-
-- 🔭 Currently working on cutting-edge web applications
-- 🌱 Exploring deep learning technologies
-- 💡 Passionate about clean code and innovation
-- 🎯 Specialized in cryptocurrency and e-commerce projects
-- ⚡ Fun fact: I turn coffee into code ☕️→💻
-
-</td>
-<td width="40%" valign="top" border="0" style="border:0">
-
-<img alt="Coding" width="100%" src="https://raw.githubusercontent.com/samirarezai/samirarezai.github.io/main/assets/img/2.gif">
-
-</td>
-</tr>
-</table> -->
-
-<br clear="both">
-
-## Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=tailwind,sass,bootstrap,materialui" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=vite,npm,yarn,git,gitlab,vscode" />
-  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor" style="height: 48px;"/>
-</p>
-
-<details>
-<summary>📦 <b>More Technologies</b></summary>
 <br>
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
-![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
-![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
+## 📟 Terminal Info
+
+```typescript
+samira@dev:~$ cat about.json
+{
+  "name": "Samira Rezayi",
+  "pronouns": ["she", "her"],
+  "role": "Senior Front-End Developer",
+  "experience": "7+ years",
+  "location": "🌍 Building the web from anywhere",
+  "languages": ["JavaScript", "TypeScript", "HTML5", "CSS3", "SASS/SCSS"],
+  "frameworks": ["React.js", "Next.js", "Redux"],
+  "specialization": ["Cryptocurrency", "E-commerce", "SaaS Applications"],
+  "currentFocus": "Building scalable web applications with Next.js",
+  "codePhilosophy": "Clean, maintainable, and performant",
+  "funFact": "I debug with console.log and I'm not ashamed 🐛"
+}
+```
+
+<br>
+
+## 🎯 Current Mission
+
+```bash
+samira@dev:~$ tail -f current_activities.log
+[2024] 🔭 Architecting modern web applications with Next.js 14
+[2024] 🌱 Exploring AI integration in front-end development
+[2024] 💡 Contributing to open-source React ecosystem
+[2024] 🎯 Optimizing performance for large-scale applications
+[2024] ⚡ Mastering TypeScript advanced patterns
+[2024] ☕ Converting coffee into production-ready code
+```
+
+<br>
+
+## 🛠️ Tech Arsenal
+
+<div align="center">
+
+### Core Technologies
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css&theme=dark" />
+</p>
+
+### Styling & UI
+<p>
+  <img src="https://skillicons.dev/icons?i=tailwind,sass,bootstrap,materialui&theme=dark" />
+</p>
+
+### Tools & Workflow
+<p>
+  <img src="https://skillicons.dev/icons?i=vite,npm,yarn,git,gitlab,vscode&theme=dark" />
+  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor" style="height: 48px; margin-left: 4px;"/>
+</p>
+
+</div>
+
+<details>
+<summary>🔧 <b>Complete Tech Stack</b></summary>
+<br>
+
+**Languages**
+```
+JavaScript (ES6+) • TypeScript • HTML5 • CSS3 • SASS/SCSS
+```
+
+**Frameworks & Libraries**
+```
+React.js • Next.js • Redux • Redux Toolkit • React Query
+```
+
+**UI Libraries**
+```
+Material-UI • Ant Design • Tailwind CSS • Bootstrap • Styled Components
+```
+
+**Build Tools**
+```
+Vite • Webpack • Babel • npm • Yarn • pnpm
+```
+
+**Version Control & Collaboration**
+```
+Git • GitLab • GitHub • GitHub Actions
+```
+
+**Testing**
+```
+Jest • React Testing Library • Cypress
+```
+
+**Others**
+```
+REST APIs • GraphQL • Axios • SWR • Socket.io • PWA
+```
 
 </details>
 
-## 📊 GitHub Analytics
+<br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samirarezai&layout=compact&theme=tokyonight)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=samirarezai&show_icons=true&theme=tokyonight&hide=issues&count_private=true&include_all_commits=true)
-<!-- <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=samirarezai&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=samirarezai&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
+## 📊 GitHub Performance
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samirarezai&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=samirarezai&theme=tokyonight&hide_border=true&layout=compact" alt="Coding Stats"/>
-</p> -->
+<div align="center">
 
-<!-- Trophy Section -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=samirarezai&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" width="100%" alt="Trophy" />
-</p>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=samirarezai&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00F7A1&icon_color=00F7A1&text_color=c9d1d9&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samirarezai&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00F7A1&text_color=c9d1d9&langs_count=8" />
 
-<!-- Connect Section -->
+<br>
+<br>
 
+<img src="https://github-readme-streak-stats.herokuapp.com?user=samirarezai&theme=react&hide_border=true&background=0D1117&ring=00F7A1&fire=00F7A1&currStreakLabel=00F7A1" />
 
-## 🌐 Let's Connect
+</div>
 
+<br>
 
-<p align="center">
-  <a href="https://samirarezai.github.io">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="https://www.linkedin.com/in/samira-rezaei/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://gitlab.com/samirarezai1996">
-    <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab"/>
-  </a>
-  <a href="https://stackoverflow.com/users/12902108/samira">
-    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow"/>
-  </a>
-</p>
+## 🏆 GitHub Achievements
 
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=samirarezai&theme=algolia&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" width="100%" alt="Trophy" />
+</div>
 
+<br>
 
+## 💼 Professional Experience Highlights
 
-<!-- Snake Animation -->
+```javascript
+const experience = {
+  total_years: 7,
+  projects: {
+    cryptocurrency_platforms: "Building real-time trading interfaces",
+    e_commerce: "Scalable shopping experiences",
+    saas_applications: "Complex dashboards and admin panels",
+    web3: "Blockchain-integrated applications"
+  },
+  achievements: [
+    "🚀 Improved application performance by 40%",
+    "📦 Built 50+ reusable component libraries",
+    "👥 Mentored junior developers",
+    "⚡ Implemented CI/CD pipelines",
+    "🎨 Created design systems from scratch"
+  ]
+};
+```
+
+<br>
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://samirarezai.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samira-rezaei/)
+[![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/samirarezai1996)
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/12902108/samira)
+
+</div>
+
+<br>
+
+## 📈 Contribution Graph
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/samirarezai/samirarezai/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/samirarezai/samirarezai/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/samirarezai/samirarezai/output/github-contribution-grid-snake.svg">
 </picture>
 
+<br>
 
-<!-- Profile Views Counter -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=samirarezai&label=Profile%20Views&color=F75C7E&style=for-the-badge" alt="Profile Views"/>
-</p>
+## 💭 Random Dev Quote
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/samirarezai/samirarezai.github.io/main/assets/img/branding/main-logo.png" width="64" height="64"/>
-</p>
+<div align="center">
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+<br>
+
+## 📫 Get In Touch
+
+```typescript
+const contactMe = () => {
+  return {
+    email: "Open to opportunities",
+    portfolio: "https://samirarezai.github.io",
+    linkedin: "Let's connect!",
+    availability: "Open for freelance projects",
+    response_time: "Usually within 24 hours"
+  };
+};
+```
+
+<br>
+
+<div align="center">
+
+### 💚 Support My Work
+
+If you find my work helpful, consider:
+- ⭐ Starring my repositories
+- 🐛 Reporting bugs or issues
+- 💡 Suggesting new features
+- 🤝 Connecting on LinkedIn
+
+</div>
+
+<br>
+
+---
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=samirarezai&label=Profile%20Views&color=00F7A1&style=for-the-badge" alt="Profile Views"/>
+
+<br>
+<br>
+
+**"Code is like humor. When you have to explain it, it's bad." – Cory House**
+
+<br>
+
+<img src="https://raw.githubusercontent.com/samirarezai/samirarezai.github.io/main/assets/img/branding/main-logo.png" width="64" height="64"/>
+
+<br>
+
+Made with 💚 and ☕ by Samira Rezayi
+
+</div>
 
 <!-- Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=36,37,38&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=36,37,38&height=120&section=footer" width="100%"/>
 
 </div>
