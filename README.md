@@ -90,7 +90,7 @@ const samira = {
 
 ## 📊 GitHub Analytics
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samirarezai&layout=compact&theme=tokyonight)
 <!-- <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=samirarezai&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=samirarezai&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
