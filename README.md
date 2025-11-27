@@ -1,7 +1,9 @@
 <div align="center">
 
 <!-- Animated Header -->
+<a align="center" href="https://samirarezai.github.io">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,20,24&height=200&section=header&text=Samira%20Rezayi&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=fff&desc=Front-End%20Web%20Developer%20%7C%20Next.js%20Expert&descAlignY=55&descSize=18" width="100%"/>
+</a>
 
 <p>
 <img align="left" src="https://emojis.slackmojis.com/emojis/images/1531849353/4244/blob-octopus.gif" width="64" height="64"/>
@@ -11,7 +13,7 @@
 <br clear="both">
 
 <!-- Terminal Typing Animation -->
-<a href="https://git.io/typing-svg">
+<a href="https://samirarezai.github.io">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2500&pause=1000&color=00F7A1&center=true&vCenter=true&width=800&height=80&lines=samira%40terminal%3A~%24+whoami;Front-End+Web+Developer+%F0%9F%9A%80;7%2B+Years+Building+Digital+Experiences+%F0%9F%92%BB;Next.js+%7C+React.js+%7C+TypeScript+Expert+%E2%9A%9B%EF%B8%8F;Clean+Code+%7C+Performance+%7C+Innovation+%E2%9C%A8" alt="Typing SVG" />
 </a>
 
@@ -32,7 +34,6 @@
 
 <br>
 
-## 📟 Terminal Info
 
 ```typescript
 samira@dev:~$ cat about.json
@@ -130,7 +131,6 @@ REST APIs • GraphQL • Axios • SWR • Socket.io • PWA
 
 <br>
 
-## 🏆 GitHub Achievements
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=samirarezai&theme=algolia&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" width="100%" alt="Trophy" />
@@ -138,7 +138,6 @@ REST APIs • GraphQL • Axios • SWR • Socket.io • PWA
 
 <br>
 
-## 🌐 Connect With Me
 
 <div align="center">
 
@@ -152,8 +151,6 @@ REST APIs • GraphQL • Axios • SWR • Socket.io • PWA
 <br>
 
 
-## 💭 Random Dev Quote
-
 <div align="center">
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
@@ -161,8 +158,6 @@ REST APIs • GraphQL • Axios • SWR • Socket.io • PWA
 </div>
 
 <br>
-
-## 📫 Get In Touch
 
 ```typescript
 const contactMe = () => {
