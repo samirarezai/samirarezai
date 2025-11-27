@@ -3,10 +3,22 @@
 <!-- Animated Header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=36,37,38&height=200&section=header&text=Samira%20Rezayi&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=fff&desc=Front-End%20Web%20Developer%20%7C%20Next.js%20Expert&descAlignY=55&descSize=18" width="100%"/>
 
+<p>
+<img align="left" src="https://emojis.slackmojis.com/emojis/images/1531849353/4244/blob-octopus.gif" width="64" height="64"/>
+<img align="right" src="https://emojis.slackmojis.com/emojis/images/1531849353/4244/blob-octopus.gif" width="64" height="64"/>
+</p>
+
+<br clear="both">
+
 <!-- Terminal Typing Animation -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2500&pause=1000&color=00F7A1&center=true&vCenter=true&width=800&height=80&lines=samira%40terminal%3A~%24+whoami;Front-End+Web+Developer+%F0%9F%9A%80;7%2B+Years+Building+Digital+Experiences+%F0%9F%92%BB;Next.js+%7C+React.js+%7C+TypeScript+Expert+%E2%9A%9B%EF%B8%8F;Clean+Code+%7C+Performance+%7C+Innovation+%E2%9C%A8" alt="Typing SVG" />
 </a>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samirarezai/samirarezai.github.io/main/assets/img/1.gif" width="54"/>
+  <img alt="Coding" src="https://raw.githubusercontent.com/samirarezai/samirarezai.github.io/main/assets/img/2.gif" width="54" />
+</p>
 
 <br>
 
