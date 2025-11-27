@@ -181,9 +181,9 @@ const contactMe = () => {
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=samirarezai&label=Profile%20Views&color=00F7A1&style=for-the-badge" alt="Profile Views"/>
+<!-- <img src="https://komarev.com/ghpvc/?username=samirarezai&label=Profile%20Views&color=00F7A1&style=for-the-badge" alt="Profile Views"/>
 
-<br>
+<br> -->
 <br>
 
 **"Code is like humor. When you have to explain it, it's bad." – Cory House**
