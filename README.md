@@ -4,8 +4,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=36,37,38&height=180&section=header&text=Samira%20Rezayi&fontSize=42&fontAlignY=30&animation=twinkling&fontColor=fff" width="100%"/>
 
 <p>
-<img align="left" src="https://emojis.slackmojis.com/emojis/images/1531849353/4244/blob-octopus.gif" width="80" height="80"/>
-<img align="right" src="https://emojis.slackmojis.com/emojis/images/1531849353/4244/blob-octopus.gif" width="80" height="80"/>
+<img align="left" src="https://emojis.slackmojis.com/emojis/images/1531849353/4244/blob-octopus.gif" width="64" height="64"/>
+<img align="right" src="https://emojis.slackmojis.com/emojis/images/1531849353/4244/blob-octopus.gif" width="64" height="64"/>
 </p>
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Front-End+Web+Developer+%F0%9F%9A%80;7%2B+Years+of+Experience+%F0%9F%92%BB;Next.js+%7C+React.js+Expert+%E2%9A%9B%EF%B8%8F;Clean+Code+Advocate+%E2%9C%A8" alt="Typing SVG" /></a>
@@ -13,7 +13,7 @@
 </div>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/samirarezai/samirarezai.github.io/main/assets/img/1.gif" width="100"/>
+  <img src="https://raw.githubusercontent.com/samirarezai/samirarezai.github.io/main/assets/img/1.gif" width="54"/>
 </p>
 
 ## 💫 About Me
