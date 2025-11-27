@@ -136,11 +136,11 @@ REST APIs • GraphQL • Axios • SWR • Socket.io • PWA
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=samirarezai&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00F7A1&icon_color=00F7A1&text_color=c9d1d9&count_private=true&include_all_commits=true" />
+<!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samirarezai&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00F7A1&icon_color=00F7A1&text_color=c9d1d9&count_private=true&include_all_commits=true" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samirarezai&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00F7A1&text_color=c9d1d9&langs_count=8" />
 
 <br>
-<br>
+<br> -->
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=samirarezai&theme=react&hide_border=true&background=0D1117&ring=00F7A1&fire=00F7A1&currStreakLabel=00F7A1" />
 
@@ -153,29 +153,6 @@ REST APIs • GraphQL • Axios • SWR • Socket.io • PWA
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=samirarezai&theme=algolia&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" width="100%" alt="Trophy" />
 </div>
-
-<br>
-
-## 💼 Professional Experience Highlights
-
-```javascript
-const experience = {
-  total_years: 7,
-  projects: {
-    cryptocurrency_platforms: "Building real-time trading interfaces",
-    e_commerce: "Scalable shopping experiences",
-    saas_applications: "Complex dashboards and admin panels",
-    web3: "Blockchain-integrated applications"
-  },
-  achievements: [
-    "🚀 Improved application performance by 40%",
-    "📦 Built 50+ reusable component libraries",
-    "👥 Mentored junior developers",
-    "⚡ Implemented CI/CD pipelines",
-    "🎨 Created design systems from scratch"
-  ]
-};
-```
 
 <br>
 
@@ -225,21 +202,6 @@ const contactMe = () => {
   };
 };
 ```
-
-<br>
-
-<div align="center">
-
-### 💚 Support My Work
-
-If you find my work helpful, consider:
-- ⭐ Starring my repositories
-- 🐛 Reporting bugs or issues
-- 💡 Suggesting new features
-- 🤝 Connecting on LinkedIn
-
-</div>
-
 <br>
 
 ---
@@ -256,10 +218,6 @@ If you find my work helpful, consider:
 <br>
 
 <img src="https://raw.githubusercontent.com/samirarezai/samirarezai.github.io/main/assets/img/branding/main-logo.png" width="64" height="64"/>
-
-<br>
-
-Made with 💚 and ☕ by Samira Rezayi
 
 </div>
 
