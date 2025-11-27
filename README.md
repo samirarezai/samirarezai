@@ -14,6 +14,7 @@
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/samirarezai/samirarezai.github.io/main/assets/img/1.gif" width="54"/>
+  <img alt="Coding" width="100%" src="https://raw.githubusercontent.com/samirarezai/samirarezai.github.io/main/assets/img/2.gif" width="54" />
 </p>
 
 ## 💫 About Me
