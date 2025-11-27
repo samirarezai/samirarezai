@@ -17,7 +17,7 @@
   <img alt="Coding" src="https://raw.githubusercontent.com/samirarezai/samirarezai.github.io/main/assets/img/2.gif" width="54" />
 </p>
 
-## 💫 About Me
+## About Me
 
 ```typescript
 const samira = {
@@ -51,19 +51,16 @@ const samira = {
 
 <br clear="both">
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-### 💻 Languages & Frameworks
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css" />
 </p>
 
-### 🎨 Styling & UI
 <p align="center">
   <img src="https://skillicons.dev/icons?i=tailwind,sass,bootstrap,materialui" />
 </p>
 
-### 🔧 Tools & Build
 <p align="center">
   <img src="https://skillicons.dev/icons?i=vite,npm,yarn,git,gitlab,vscode" />
   <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor" style="height: 48px;"/>
