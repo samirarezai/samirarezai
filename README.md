@@ -146,7 +146,7 @@ const samira = {
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/samirarezai/samirarezai.github.io/main/assets/img/branding/main-logo.png" width="80" height="80"/>
+  <img src="https://raw.githubusercontent.com/samirarezai/samirarezai.github.io/main/assets/img/branding/main-logo.png" width="64" height="64"/>
 </p>
 
 <!-- Footer Wave -->
