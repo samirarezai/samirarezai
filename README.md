@@ -24,7 +24,7 @@
 
 </div>
 
-<br>
+<!-- <br>
 
 
 ```typescript
@@ -38,7 +38,7 @@ samira@dev:~$ cat about.json
   "languages": ["JavaScript", "TypeScript", "HTML5", "CSS3", "SASS/SCSS"],
   "frameworks": ["React.js", "Next.js", "Redux"]
 }
-```
+``` -->
 
 <br>
 
