@@ -47,7 +47,7 @@ samira@dev:~$ cat about.json
 
 
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css&theme=dark" width="50" />
 </p>
 
 
