@@ -22,14 +22,6 @@
   <img alt="Coding" src="https://raw.githubusercontent.com/samirarezai/samirarezai.github.io/main/assets/img/2.gif" width="54" />
 </p>
 
-<br>
-
-```ascii
-╔═══════════════════════════════════════════════════════════════════╗
-║  👩‍💻 Crafting pixel-perfect experiences, one component at a time  ║
-╚═══════════════════════════════════════════════════════════════════╝
-```
-
 </div>
 
 <br>
