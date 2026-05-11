@@ -103,9 +103,6 @@ samira@dev:~$ cat about.json
 <br> -->
 <br>
 
-**"Code is like humor. When you have to explain it, it's bad." – Cory House**
-
-<br>
 
 <img src="https://raw.githubusercontent.com/samirarezai/samirarezai.github.io/main/assets/img/branding/main-logo.png" width="64" height="64"/>
 
