@@ -47,17 +47,17 @@ samira@dev:~$ cat about.json
 
 
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css&theme=dark" width="50" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css&theme=dark" width="100" />
 </p>
 
 
 <p>
-  <img src="https://skillicons.dev/icons?i=tailwind,sass,bootstrap,materialui&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=tailwind,sass,bootstrap,materialui&theme=dark" width="100" />
 </p>
 
 
 <p>
-  <img src="https://skillicons.dev/icons?i=vite,npm,yarn,git,gitlab,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=vite,npm,yarn,git,gitlab,vscode&theme=dark" width="100" />
   <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor" style="height: 48px; margin-left: 4px;"/>
 </p>
 
