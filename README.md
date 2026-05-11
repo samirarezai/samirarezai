@@ -63,51 +63,6 @@ samira@dev:~$ cat about.json
 
 </div>
 
-<details>
-<summary>🔧 <b>Complete Tech Stack</b></summary>
-<br>
-
-**Languages**
-```
-JavaScript (ES6+) • TypeScript • HTML5 • CSS3 • SASS/SCSS
-```
-
-**Frameworks & Libraries**
-```
-React.js • Next.js • Redux • Redux Toolkit • React Query
-```
-
-**UI Libraries**
-```
-Material-UI • Ant Design • Tailwind CSS • Bootstrap • Styled Components
-```
-
-**Build Tools**
-```
-Vite • Webpack • Babel • npm • Yarn • pnpm
-```
-
-**Version Control & Collaboration**
-```
-Git • GitLab • GitHub • GitHub Actions
-```
-
-**Testing**
-```
-Jest • React Testing Library • Cypress
-```
-
-**Others**
-```
-REST APIs • GraphQL • Axios • SWR • Socket.io • PWA
-```
-
-</details>
-
-<br>
-
-
-
 <div align="center">
 
 <a align="center" href="https://samirarezai.github.io">
