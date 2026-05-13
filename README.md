@@ -81,7 +81,7 @@ samira@dev:~$ cat about.json
 
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=samirarezai&theme=monokai&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" width="100%" alt="Trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=samirarezai&theme=nord&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" width="100%" alt="Trophy" />
 </div>
 
 <br>
