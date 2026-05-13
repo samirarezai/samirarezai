@@ -18,7 +18,7 @@
 </a>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/samirarezai/samirarezai.github.io/main/assets/img/1.gif" width="54"/>
+  <img src="https://raw.githubusercontent.com/samirarezai/samirarezai.github.io/main/assets/img/1.gif" width="54" style="background-color=rgba(0,0,0,0)"/>
   <img alt="Coding" src="https://raw.githubusercontent.com/samirarezai/samirarezai.github.io/main/assets/img/2.gif" width="54" />
 </p>
 
