@@ -67,7 +67,8 @@ samira@dev:~$ cat about.json
 
 <a align="center" href="https://samirarezai.github.io">
     <p align="center">
-    <img alt="Samira Rezayi's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=samirarezai&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samirarezai&layout=compact&theme=tokyonight" alt="languages" height="165">
+    <img alt="Samira Rezayi's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=samirarezai&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/>
+      <img alt="Samira's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=samirarezai&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/>
     </p>
 </a>
 <br>
