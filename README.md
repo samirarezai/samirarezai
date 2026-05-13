@@ -6,8 +6,8 @@
 </a>
 
 <p>
-<a align="center" href="https://samirarezai.github.io"><img align="left" src="https://emojis.slackmojis.com/emojis/images/1531849353/4244/blob-octopus.gif" width="64" height="64"/></a>
-<a align="center" href="https://samirarezai.github.io"><img align="right" src="https://emojis.slackmojis.com/emojis/images/1531849353/4244/blob-octopus.gif" width="64" height="64"/></a>
+<img align="left" src="https://emojis.slackmojis.com/emojis/images/1531849353/4244/blob-octopus.gif" width="64" height="64"/>
+<img align="right" src="https://emojis.slackmojis.com/emojis/images/1531849353/4244/blob-octopus.gif" width="64" height="64"/>
 </p>
 
 <br clear="both">
@@ -18,7 +18,7 @@
 </a>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/samirarezai/samirarezai.github.io/main/assets/img/1.gif" width="54" style="background-color=rgba(0,0,0,0)"/>
+  <img src="https://raw.githubusercontent.com/samirarezai/samirarezai.github.io/main/assets/img/1.gif" width="54" />
   <img alt="Coding" src="https://raw.githubusercontent.com/samirarezai/samirarezai.github.io/main/assets/img/2.gif" width="54" />
 </p>
 
