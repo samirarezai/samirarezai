@@ -6,7 +6,7 @@
 </a>
 
 <div>
-<img align="left" src="https://emojis.slackmojis.com/emojis/images/1531849353/4244/blob-octopus.gif" width="64" height="64"/>
+<img align="left" src="https://emojis.slackmojis.com/emojis/images/1531849353/4244/blob-octopus.gif" width="64" height="64" backgroundColor="rgba(0,0,0,0)/>
 <img align="right" src="https://emojis.slackmojis.com/emojis/images/1531849353/4244/blob-octopus.gif" width="64" height="64"/>
 </div>
 
