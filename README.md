@@ -17,10 +17,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2500&pause=1000&color=00F7A1&center=true&vCenter=true&width=800&height=80&lines=samira%40terminal%3A~%24+whoami;Front-End+Web+Developer+%F0%9F%9A%80;7%2B+Years+Building+Digital+Experiences+%F0%9F%92%BB;Next.js+%7C+React.js+%7C+TypeScript+Expert+%E2%9A%9B%EF%B8%8F;Clean+Code+%7C+Performance+%7C+Innovation+%E2%9C%A8" alt="Typing SVG" />
 </a>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/samirarezai/samirarezai-portfolio/main/assets/img/1.gif" width="54" />
-  <img alt="Coding" src="https://raw.githubusercontent.com/samirarezai/samirarezai-portfolio/main/assets/img/2.gif" width="54" />
-</p>
+
 
 </div>
 
@@ -50,6 +47,10 @@ samira@dev:~$ cat about.json
   <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,tailwind,vite,npm&theme=dark" width="400" />
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/samirarezai/samirarezai-portfolio/main/assets/img/1.gif" width="54" />
+  <img alt="Coding" src="https://raw.githubusercontent.com/samirarezai/samirarezai-portfolio/main/assets/img/2.gif" width="54" />
+</p>
 
 <!-- <p>
   <img src="https://skillicons.dev/icons?i=tailwind,antd,sass,bootstrap,materialui&theme=dark" width="250" />
