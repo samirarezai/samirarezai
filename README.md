@@ -46,7 +46,7 @@ samira@dev:~$ cat about.json
 <p>
   <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,tailwind,vite,npm&theme=dark" width="400" />
 </p>
-
+<br>
 <p align="center">
   <img src="https://raw.githubusercontent.com/samirarezai/samirarezai-portfolio/main/assets/img/1.gif" width="54" />
   <img alt="Coding" src="https://raw.githubusercontent.com/samirarezai/samirarezai-portfolio/main/assets/img/2.gif" width="54" />
