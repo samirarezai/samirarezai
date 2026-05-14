@@ -5,12 +5,12 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=36,37,38&height=200&section=header&text=Samira%20Rezayi&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=fff&desc=Front-End%20Web%20Developer%20%7C%20Next.js%20Expert&descAlignY=55&descSize=18" width="100%"/>
 </a>
 
-<p>
+<div>
 <img align="left" src="https://emojis.slackmojis.com/emojis/images/1531849353/4244/blob-octopus.gif" width="64" height="64"/>
 <img align="right" src="https://emojis.slackmojis.com/emojis/images/1531849353/4244/blob-octopus.gif" width="64" height="64"/>
-</p>
+</div>
 
-<br clear="both">
+<br>
 
 <!-- Terminal Typing Animation -->
 <a href="https://samirarezai.github.io">
